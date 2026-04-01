@@ -10,7 +10,7 @@ If you've got a front end or full stack position in the Nashville, TN area or fu
 
 ### Professionally focused on:
 
-[![Shopify][Shopify]]
+[Shopify][Shopify]
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
 [![Vue.js][Vue.js]][Vue-url]
