@@ -10,7 +10,7 @@ If you've got a front end or full stack position in the Nashville, TN area or fu
 
 ### Professionally focused on:
 
-[![Shopify][Shopify]]
+[![Shopify][Shopify]][Shopify-url]
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
 [![Vue.js][Vue.js]][Vue-url]
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [bluesky-url]: https://bsky.app/profile/mbelcher.bsky.social
 [product-screenshot]: images/screenshot.png
 [Shopify]: https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=fff
+[Shopify-url]: https://www.shopify.com/
 [Nuxt.js]: https://img.shields.io/badge/nuxt-00dc82?style=for-the-badge&logo=nuxt&logoColor=white
 [Nuxt-url]: https://nuxt.com/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
