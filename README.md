@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Michael and I'm open for work.
 
-I have over a decade of experince in full stack development, ranging from classic tech stacks involvoing PHP and JQuery to the modern JS frameworks of React and Vue. 
+I have over a decade of experince in full stack development in the e-commerce space, ranging from classic tech stacks involvoing PHP and JQuery to the modern JS frameworks of React and Vue. 
 If you've got a front end or full stack position in the Nashville, TN area or fully remote please feel free to reach out.
 
 ### Connect with me:
@@ -10,10 +10,11 @@ If you've got a front end or full stack position in the Nashville, TN area or fu
 
 ### Professionally focused on:
 
-[![Vue.js][Vue.js]][Vue-url]
-[![Nuxt.js][Nuxt.js]][Nuxt-url]
+[![Shopify][Shopify]]
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
+[![Vue.js][Vue.js]][Vue-url]
+[![Nuxt.js][Nuxt.js]][Nuxt-url]
 
 ### Previous experience in:
 [![HTML][HTML]][Html-url]
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 [bluesky-shield]: https://img.shields.io/badge/-Bluesky-black.svg?style=for-the-badge&logo=bluesky&colorB=003eaa
 [bluesky-url]: https://bsky.app/profile/mbelcher.bsky.social
 [product-screenshot]: images/screenshot.png
+[Shopify]: https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff
 [Nuxt.js]: https://img.shields.io/badge/nuxt-00dc82?style=for-the-badge&logo=nuxt&logoColor=white
 [Nuxt-url]: https://nuxt.com/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
